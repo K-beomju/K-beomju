@@ -12,8 +12,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer&text="강력한 이유는 강력한 행동을 낳는다."%&fontSize=70)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=강력한 이유는 강력한 행동을 낳는다.%20render&fontSize=90)
 
 <!--
 
