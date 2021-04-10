@@ -4,7 +4,7 @@
 *  🚀 Life is short, Don't waste your time.
 
 
-                   <h3 align = "center"> 대한민국의 열정적인 게임 개발자 </ h3>
+<h3 align = "center"> 대한민국의 열정적인 게임 개발자 </ h3>
 
 
 <h3 align="center">A passionate game developer from South Korea</h3>
