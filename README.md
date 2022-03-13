@@ -18,7 +18,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-beomju)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Opgc Rank:</h3>
+<h3 align="left">OPGC Rank:</h3>
 <a href="https://opgc.me/#/users/K-beomju" target="_blank"><img src="https://api.opgc.me/githubs/users/K-beomju/tag/?theme=basic" /></a>
 <!--
 
