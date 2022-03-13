@@ -1,7 +1,7 @@
 
 </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate client developer from Korea</h3>
 
 
 <p align="left">
