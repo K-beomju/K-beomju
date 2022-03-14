@@ -21,8 +21,7 @@
 <h3 align="left">OPGC Rank:</h3>
 <a href="https://opgc.me/#/users/K-beomju" target="_blank"><img src="https://api.opgc.me/githubs/users/K-beomju/tag/?theme=basic" /></a>
 
-[![Solved.ac
-develeop](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![https://solved.ac/profile/develeop/solved](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 <!--
 
 
