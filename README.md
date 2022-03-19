@@ -4,7 +4,7 @@
 
 - [Repository for School Curriculum](http://ggm.gondr.net/user/profile/117)
 
-## ***"Behind every great agent there's a great environment" -- DeepMind***
+## ***"By failing to prepare, you are preparing to fail" -- DeepMind***
 
 
 <p align="left">
