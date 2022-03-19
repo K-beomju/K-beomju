@@ -12,7 +12,9 @@
 [![Github Followers](https://img.shields.io/github/followers/K-beomju?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/K-beomju?tab=followers)
 
 [![Kimbeomju's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-beomju&show_icons=true&theme=dracula)](https://github.com/K-beomju)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K-beomju&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![opgc](https://api.opgc.me/githubs/users/K-beomju/tag/?theme=dracula)](https://opgc.me/#/users/K-beomju)
 
 
