@@ -17,6 +17,10 @@
 
 [![opgc](https://api.opgc.me/githubs/users/K-beomju/tag/?theme=dracula)](https://opgc.me/#/users/K-beomju)
 
+### 🔭 I’m currently working on
+- Gyeonggi Game Meister High School Graduation Project Team Leader (Dec 2021 ~ Present)
+- Ngle Company Collaboration Game Project (Oct 2021 ~ Present)
+
 
 <!--
 
