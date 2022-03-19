@@ -4,7 +4,7 @@
 
 - [Repository for School Curriculum](http://ggm.gondr.net/user/profile/117)
 
-## ***"By failing to prepare, you are preparing to fail" -- DeepMind***
+## ***"By failing to prepare, you are preparing to fail" -- Benjamin Franklin***
 
 
 <p align="left">
