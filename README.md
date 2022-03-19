@@ -2,7 +2,7 @@
 
 👋 Hi! Welcome to my Github profile!
 
-- [Repository for Curriculum Vitae](https://github.com/utilForever/CV)
+- [Repository for School Curriculum](http://ggm.gondr.net/user/profile/117)
 - [Repository for Presentations](https://github.com/utilForever/Presentations)
 
 ## ***"Behind every great agent there's a great environment" -- DeepMind***
