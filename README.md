@@ -1,7 +1,11 @@
+### Chris Ohk -- @utilForever
 
-</p>
+👋 Hi! Welcome to my Github profile!
 
-<h3 align="center">A passionate client developer from Korea</h3>
+- [Repository for Curriculum Vitae](https://github.com/utilForever/CV)
+- [Repository for Presentations](https://github.com/utilForever/Presentations)
+
+## ***"Behind every great agent there's a great environment" -- DeepMind***
 
 
 <p align="left">
