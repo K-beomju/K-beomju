@@ -18,7 +18,7 @@
 
 
   
-[![Kimbeomju's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-beomju&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Kimbeomju's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-beomju&show_icons=true&theme=dracula)](https://github.com/K-beomju)
 <br/>
 <a href="https://opgc.me/#/users/K-beomju" target="_blank"><img src="https://api.opgc.me/githubs/users/K-beomju/tag/?theme=basic" /></a>
 
