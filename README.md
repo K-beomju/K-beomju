@@ -20,7 +20,7 @@
   
 [![Kimbeomju's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-beomju&show_icons=true&theme=dracula)](https://github.com/K-beomju)
 
-[![opgc]("https://opgc.me/#/users/K-beomju/tag/?theme=dracula)](https://api.opgc.me/githubs/users/K-beomju/tag/?border=normal)
+[![opgc](https://api.opgc.me/githubs/users/K-beomju/tag/?theme=dracula)](https://opgc.me/#/users/K-beomju)
 
 <!--
 
