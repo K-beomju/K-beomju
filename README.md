@@ -6,6 +6,7 @@
 
 ## ***"By failing to prepare, you are preparing to fail" --DeepMind***
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK-beomju)](https://github.com/K-beomju)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kbj52264291@gmail.com)](mailto:kbj52264291@gmail.com)
 
 [![Kimbeomju's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-beomju&show_icons=true&theme=dracula)](https://github.com/K-beomju)
 
