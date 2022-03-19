@@ -1,4 +1,4 @@
-### Kimbeomju -- @j._ub19b
+### Kimbeomju -- @luke_jkkkkk
 
 👋 Hi! Welcome to my Github profile!
 
