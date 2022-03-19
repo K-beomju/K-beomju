@@ -5,7 +5,7 @@
 - [Repository for School Curriculum](http://ggm.gondr.net/user/profile/117)
 
 ## ***"By failing to prepare, you are preparing to fail" --DeepMind***
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FutilForever)](https://github.com/K-beomju)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%K-beomju)](https://github.com/K-beomju)
 
 [![Kimbeomju's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-beomju&show_icons=true&theme=dracula)](https://github.com/K-beomju)
 
