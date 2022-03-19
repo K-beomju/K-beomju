@@ -19,7 +19,7 @@
 
 ### 🔭 I’m currently working on
 - Gyeonggi Game Meister High School Graduation Project Team Leader (Dec 2021 ~ Present)
-- Ngle Company Collaboration Game Project (Oct 2021 ~ Present)
+- Ngle Company Collaboration Project (Oct 2021 ~ Present)
 
 ### 🌱 I’m currently learning
 - C#, C++, Unity, Firebase
