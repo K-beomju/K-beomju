@@ -21,6 +21,7 @@
 - Gyeonggi Game Meister High School (March 2020 ~ 2023)
 - Gyeonggi Game Meister High School Graduation Project Team Leader (Dec 2021 ~ Present)
 - Ngle Company Collaboration Project (Oct 2021 ~ Present)
+- Ngle Company (Feb 2023 ~ Present)
 
 ### 🌱 I’m currently learning
 - C#, C++, Unity, Firebase
