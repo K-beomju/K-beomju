@@ -15,8 +15,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K-beomju&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![opgc](https://api.opgc.me/githubs/users/K-beomju/tag/?theme=dracula)](https://opgc.me/#/users/K-beomju)
-
 ### 🔭 I’m currently working on
 - Gyeonggi Game Meister High School (March 2020 ~ 2023)
 - Gyeonggi Game Meister High School Graduation Project Team Leader (Dec 2021 ~ Present)
