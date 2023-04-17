@@ -22,7 +22,7 @@
 - Ngle Company (Feb 2023 ~ Present)
 
 ### 🌱 I’m currently learning
-- C#, C++, Unity, Firebase, Gcp
+- C#, Unity, Firebase, Gcp
 
 
 <!--
