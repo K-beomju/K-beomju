@@ -20,7 +20,7 @@
 - Gyeonggi Game Meister High School Graduation Project Team Leader (Dec 2021 ~ Sep 2022)
 - Ngle Company Collaboration Project (Oct 2021 ~ Sep 2023)
 - Ngle Company (Feb 2023 ~ Sep 2023)
-- Present Indie Game Developer
+- Present Indie Game Developer & Gyeonggi Game Meister High School Game Development instructor
 
 ### 🌱 I’m currently learning
 - C#, Unity, Firebase, Gcp
