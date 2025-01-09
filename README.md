@@ -10,10 +10,6 @@
 - Ngle Company (Feb 2023 ~ Sep 2023)
 - Present Indie Game Developer & Gyeonggi Game Meister High School Game Development instructor
 
-### 🌱 I’m currently learning
-- C#, Unity, Firebase, Gcp
-
-
 <!--
 
 
