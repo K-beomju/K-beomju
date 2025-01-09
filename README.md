@@ -1,7 +1,6 @@
 ## 👋 안녕하세요 클라이언트 프로그래머 김범주입니다!
 [![Kimbeomju's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-beomju&show_icons=true&theme=dracula)](https://github.com/K-beomju)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K-beomju&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### 🔭 I’m currently working on
 - Gyeonggi Game Meister High School (March 2020 ~ 2023)
