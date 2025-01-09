@@ -1,8 +1,6 @@
 ### Kimbeomju -- @luke_jkkkkk
 
-👋 Hi! Welcome to my Github profile!
-
-- [Repository for School Curriculum](http://ggm.gondr.net/user/profile/117)
+👋 안녕하세요 클라이언트 프로그래머 김범주입니다!
 
 ## ***"The Future depends on what you do today"***
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK-beomju)](https://github.com/K-beomju)
