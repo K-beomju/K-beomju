@@ -1,5 +1,4 @@
 ## 👋 안녕하세요 클라이언트 프로그래머 김범주입니다!
-[![Kimbeomju's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-beomju&show_icons=true&theme=dracula)](https://github.com/K-beomju)
 ![Kimbeomju's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-beomju\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 
@@ -26,4 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+**[![Kimbeomju's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-beomju&show_icons=true&theme=dracula)](https://github.com/K-beomju)
+
 -->
