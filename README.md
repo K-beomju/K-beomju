@@ -8,7 +8,7 @@
 - Ngle Company Collaboration Project (Oct 2021 ~ Sep 2023)
 - Ngle Company (Feb 2023 ~ Sep 2023)
 - Gyeonggi Game Meister High School Game Development instructor (Aug 2024 ~ Dec 2024)
-- Present Indie Game Developer && Studying Photon Quantum 😄
+- Monstrplanet (Feb 2025 ~ )
 
 <!--
 
